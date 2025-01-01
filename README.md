@@ -36,3 +36,6 @@ https://github.com/yunabe/tslab
 - `npm install --save-dev typescript @types/node`
 - `npm install --save-dev aws-sdk`
 - ..any other dependencies you want to add to the ambient context for import within notebooks
+
+#### Typescript visualization
+- https://visjs.github.io/vis-network/examples/
