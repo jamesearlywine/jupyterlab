@@ -26,6 +26,11 @@ https://github.com/aws/graph-notebook
   - `python -m graph_notebook.start_jupyterlab --jupyter-dir ~/notebook/destination/dir`
   - `jupyter-up.sh`
 
+### YFiles for Jupyter Graphs for Neo4j
+- https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j
+  - `pip install yfiles_jupyter_graphs_for_neo4j`
+
+
 ### Install typescript notebook dependencies
 - `npm init -y`
 - `npm install --save-dev typescript @types/node`
