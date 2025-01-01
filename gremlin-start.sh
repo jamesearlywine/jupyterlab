@@ -1,1 +1,0 @@
-docker compose -f ./tinkerpop-gremlin-server.docker-compose.yaml up -d
