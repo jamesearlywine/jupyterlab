@@ -16,6 +16,7 @@ https://jupyter.org/install
 
 ## Start Jupyter Lab
 - `jupyter lab`
+- http://localhost:8889/lab
 
 ## Start Neo4j
 ```
@@ -24,6 +25,8 @@ docker run \
     --volume=$(pwd)/neo4j-data:/data \
     neo4j
 ```
+- http://localhost:7474/browser/preview/
+
 ---
 ## Optional
 ### TSLab for typescript notebooks
