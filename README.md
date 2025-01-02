@@ -39,8 +39,8 @@ https://github.com/yunabe/tslab
 
 #### Typescript graph visualization
 - https://visjs.github.io/vis-network/examples/
----
 
+---
 ### Graph Notebook (visualization isn't working)
 https://github.com/aws/graph-notebook
 - `pip install "graph-notebook`
