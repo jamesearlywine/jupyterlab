@@ -39,6 +39,7 @@ https://github.com/yunabe/tslab
 
 #### Typescript graph visualization
 - https://visjs.github.io/vis-network/examples/
+- https://js.cytoscape.org/#notation/graph-model
 
 ---
 ### Graph Notebook (visualization isn't working)
