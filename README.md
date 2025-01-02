@@ -39,3 +39,15 @@ https://github.com/yunabe/tslab
 
 #### Typescript graph visualization
 - https://visjs.github.io/vis-network/examples/
+---
+
+### Graph Notebook (visualization isn't working)
+https://github.com/aws/graph-notebook
+- `pip install "graph-notebook`
+- copy sample graph notebook
+  - `python -m graph_notebook.notebooks.install --destination ~/jupyterlab`
+- fix magic cell
+  - `python -m graph_notebook.ipython_profile.configure_ipython_profile`
+- start jupyter lab graph notebook
+  - `python -m graph_notebook.start_jupyterlab --jupyter-dir ~/notebook/destination/dir`
+    - `python -m graph_notebook.start_jupyterlab --jupyter-dir ./`
