@@ -10,7 +10,7 @@ https://jupyter.org/install
   - for compatibility with graph notebook
     - https://github.com/aws/graph-notebook
 
-### YFiles for Neo4J Query and Visualization
+### YFiles for Neo4J Visualization
 - https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j
   - `pip install yfiles_jupyter_graphs_for_neo4j`
 
@@ -37,5 +37,5 @@ https://github.com/yunabe/tslab
 - `npm install --save-dev aws-sdk`
 - ..any other dependencies you want to add to the ambient context for import within notebooks
 
-#### Typescript visualization
+#### Typescript graph visualization
 - https://visjs.github.io/vis-network/examples/
