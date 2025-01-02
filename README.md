@@ -50,4 +50,4 @@ https://github.com/aws/graph-notebook
   - `python -m graph_notebook.ipython_profile.configure_ipython_profile`
 - start jupyter lab graph notebook
   - `python -m graph_notebook.start_jupyterlab --jupyter-dir ~/notebook/destination/dir`
-    - `python -m graph_notebook.start_jupyterlab --jupyter-dir ./`
+    - `jupyter-start.sh`
